@@ -46,9 +46,12 @@
       <td>G64180103</td>
       <td>UI/UX Designer</td>
     </tr>
-  <b><img src="[psbo-ERD](https://user-images.githubusercontent.com/74443498/120628287-b5d57f00-c48e-11eb-9476-ddf7ab9dd92b.png)
-"><br>
   </table>
 </div>
 
-
+## ERD
+<p align="center">
+<a>
+<img src="![psbo-ERD](https://user-images.githubusercontent.com/74443498/120632890-ac9ae100-c493-11eb-874b-76083ffce998.png)", width=700>
+</a>
+</p>
