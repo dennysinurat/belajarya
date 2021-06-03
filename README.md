@@ -46,8 +46,9 @@
       <td>G64180103</td>
       <td>UI/UX Designer</td>
     </tr>
+  <img src="[psbo-ERD](https://user-images.githubusercontent.com/74443498/120628287-b5d57f00-c48e-11eb-9476-ddf7ab9dd92b.png)
+">
   </table>
 </div>
 
-<img src="[psbo-ERD](https://user-images.githubusercontent.com/74443498/120628287-b5d57f00-c48e-11eb-9476-ddf7ab9dd92b.png)
-">
+
