@@ -52,6 +52,6 @@
 ## Entity Relationship Diagram<br>
 <p align="center">
 <a>
-<img src="![psbo-ERD](https://user-images.githubusercontent.com/74443498/120632890-ac9ae100-c493-11eb-874b-76083ffce998.png), alt="psbo-ERD", width=700>
+<img src=![psbo-ERD]"(https://user-images.githubusercontent.com/74443498/120632890-ac9ae100-c493-11eb-874b-76083ffce998.png), alt="psbo-ERD", width=700>
 </a>
 </p>
